@@ -1,0 +1,8 @@
+numpy==1.26.4
+pandas==2.2.2
+matplotlib==3.9.0
+pydantic==2.8.2
+tqdm==4.66.5
+pytest==8.3.2
+openai==1.40.6
+google-genai==0.3.0

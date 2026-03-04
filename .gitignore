@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+outputs/
+.env
+.venv/
+src/ee_fin.egg-info/*
+*.png
+*.pdf

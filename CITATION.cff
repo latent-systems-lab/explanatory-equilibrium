@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+title: "Toward Explanatory Equilibrium: Verifiable Reasoning as a Coordination Mechanism in LLM-Based Multi-Agent Systems"
+message: "If you use this software or associated paper artifact, please cite it using the metadata below."
+type: software
+authors:
+  - given-names: "Feliks"
+    family-names: "Bańka"
+    orcid: "https://orcid.org/0009-0005-1973-5861"
+  - given-names: "Jarosław A."
+    family-names: "Chudziak"
+    orcid: "https://orcid.org/0000-0003-4534-8652"
+license: "MIT"
+version: "0.1.0"
+date-released: "2026-01-01"
+preferred-citation:
+  type: article
+  title: "Toward Explanatory Equilibrium: Verifiable Reasoning as a Coordination Mechanism in LLM-Based Multi-Agent Systems"
+  authors:
+    - given-names: "Feliks"
+      family-names: "Bańka"
+      orcid: "https://orcid.org/0009-0005-1973-5861"
+    - given-names: "Jarosław A."
+      family-names: "Chudziak"
+      orcid: "https://orcid.org/0000-0003-4534-8652"
+  journal: "AAMAS Workshop Artifact"
+  year: 2026
+  notes: "Reproduce reported results with scripts/openai_full.sh (OpenAI gpt-4.1)."
